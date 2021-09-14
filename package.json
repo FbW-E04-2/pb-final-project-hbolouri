@@ -1,0 +1,23 @@
+{
+  "name": "pb-final-project-hbolouri",
+  "version": "1.0.0",
+  "description": "You'll find the instructions for each project in the designated markdown file located in the projects directory. If you choose to do one that's not listed, you should add your own README.md.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E04-2/pb-final-project-hbolouri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E04-2/pb-final-project-hbolouri/issues"
+  },
+  "homepage": "https://github.com/FbW-E04-2/pb-final-project-hbolouri#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "prompt-sync": "^4.0.0"
+  }
+}
